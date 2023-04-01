@@ -91,8 +91,8 @@ See the [wiki](https://github.com/fogleman/Minecraft/wiki) for this project to i
 
 - ESC: release mouse, then close window
 
-I want to take no credit from Fogleman's craft this project started out as a bet I made with a friend that I could build the same app with different code in a night turned out
-it was pretty easy and just cloned my repository and merged it with Fogleman's code and make a decent and fast version, and I just want it to be accessible in areas where it us most needed
+I want to take no credit from Fogleman's craft, this project started out as a bet I made with a friend, that I could build the same app with different code in a night, turned out,
+it was pretty easy. I cloned my repository and merged it with Fogleman's code and make a decent and fast version, and I just want it to be accessible in areas where it us most needed
 , around school.
 
 
